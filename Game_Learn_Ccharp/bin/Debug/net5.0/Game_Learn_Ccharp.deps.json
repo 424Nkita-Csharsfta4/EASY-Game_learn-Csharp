@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Game_Learn_Ccharp/1.0.0": {
+        "runtime": {
+          "Game_Learn_Ccharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Game_Learn_Ccharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

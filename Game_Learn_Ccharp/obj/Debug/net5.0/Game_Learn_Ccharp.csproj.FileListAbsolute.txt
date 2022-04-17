@@ -1,0 +1,16 @@
+C:\Users\tvc\source\repos\Game_Learn_Ccharp\bin\Debug\net5.0\Game_Learn_Ccharp.exe
+C:\Users\tvc\source\repos\Game_Learn_Ccharp\bin\Debug\net5.0\Game_Learn_Ccharp.deps.json
+C:\Users\tvc\source\repos\Game_Learn_Ccharp\bin\Debug\net5.0\Game_Learn_Ccharp.runtimeconfig.json
+C:\Users\tvc\source\repos\Game_Learn_Ccharp\bin\Debug\net5.0\Game_Learn_Ccharp.runtimeconfig.dev.json
+C:\Users\tvc\source\repos\Game_Learn_Ccharp\bin\Debug\net5.0\Game_Learn_Ccharp.dll
+C:\Users\tvc\source\repos\Game_Learn_Ccharp\bin\Debug\net5.0\ref\Game_Learn_Ccharp.dll
+C:\Users\tvc\source\repos\Game_Learn_Ccharp\bin\Debug\net5.0\Game_Learn_Ccharp.pdb
+C:\Users\tvc\source\repos\Game_Learn_Ccharp\obj\Debug\net5.0\Game_Learn_Ccharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvc\source\repos\Game_Learn_Ccharp\obj\Debug\net5.0\Game_Learn_Ccharp.AssemblyInfoInputs.cache
+C:\Users\tvc\source\repos\Game_Learn_Ccharp\obj\Debug\net5.0\Game_Learn_Ccharp.AssemblyInfo.cs
+C:\Users\tvc\source\repos\Game_Learn_Ccharp\obj\Debug\net5.0\Game_Learn_Ccharp.csproj.CoreCompileInputs.cache
+C:\Users\tvc\source\repos\Game_Learn_Ccharp\obj\Debug\net5.0\Game_Learn_Ccharp.dll
+C:\Users\tvc\source\repos\Game_Learn_Ccharp\obj\Debug\net5.0\ref\Game_Learn_Ccharp.dll
+C:\Users\tvc\source\repos\Game_Learn_Ccharp\obj\Debug\net5.0\Game_Learn_Ccharp.pdb
+C:\Users\tvc\source\repos\Game_Learn_Ccharp\obj\Debug\net5.0\Game_Learn_Ccharp.genruntimeconfig.cache
+C:\Users\tvc\source\repos\Game_Learn_Ccharp\obj\Debug\net5.0\Game_Learn_Ccharp.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kovrdQpQhVLZJ6zr8NhMEh0f7ceIhaaHtGZHt+VNjqz0tpFRqOVEMluwQkd3bY14EZ2TP5gRNTn+KxIMWhuLGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tvc\\source\\repos\\Game_Learn_Ccharp\\Game_Learn_Ccharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tvc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\tvc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\tvc\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
